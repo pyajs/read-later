@@ -17,6 +17,11 @@
 	* <https://www.ventureharbour.com/form-design-best-practices/>
 	* <http://www.ui.cn/detail/168477.html>
 	* <http://www.techug.com/post/design-better-forms.html>
+9. 项目中需要画关系图时可以选择以下的几个库：
+	* 效果和果冻一样的库，我们在项目中用得较多：<http://visjs.org/network_examples.html>
+	* 另一个库：<http://js.cytoscape.org/>
+10. Ant Design的github项目上的一个issue，大家纷纷提供了自己利用antd写的界面，不乏精彩之作，如果要使用AntD来做项目，可以提前参考下：<https://github.com/ant-design/ant-design/issues/477>
+
 
 ## 后端开发
 
