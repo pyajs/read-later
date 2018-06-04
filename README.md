@@ -32,9 +32,12 @@
 5. MODELING WORKFLOWS IN REST APIS 提供了三种将工作流使用restful风格来表示的方法讨论：<http://www.kennethlange.com/posts/Modeling-Workflows-in-REST-APIs.html>
 6. github的api文档，对restful API使用有一些很细节的规定和描述，可作为API设计和使用的参考，但到了V4版后github开始用graphql了~：<https://developer.github.com/v3/>
 7. python3 cookbook，从python2转到python3，总会感觉自己没把python3的新特性用到位，可以参考下这本书，掌握python3最新特性带来的快感：<http://python3-cookbook.readthedocs.io/zh_CN/latest/index.html>
-8. 
+8. 一篇讲network.taget的文章，可以试着读完这篇文章，然后确定自己的service配置文件该怎么写才好：<https://www.freedesktop.org/wiki/Software/systemd/NetworkTarget/>
+
 
 ## 运维
 1. monitorix工具，用于监控系统性能，并通过rrdtool绘制成图形，最终通过web界面进行展示，可直接通过yum安装： <http://www.monitorix.org/>
+2. 常看开源项目的人都熟悉awesome列表，这里的这个列表提供了一份系统管理员常用的管理工具的列表，可能会有帮助：<https://github.com/n1trux/awesome-sysadmin>
+
 
 
