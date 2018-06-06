@@ -21,6 +21,9 @@
 	* 效果和果冻一样的库，我们在项目中用得较多：<http://visjs.org/network_examples.html>
 	* 另一个库：<http://js.cytoscape.org/>
 10. Ant Design的github项目上的一个issue，大家纷纷提供了自己利用antd写的界面，不乏精彩之作，如果要使用AntD来做项目，可以提前参考下：<https://github.com/ant-design/ant-design/issues/477>
+11. 两个用于生成web版虚拟桌面的项目，可用于演示和教学类项目：
+	* <https://www.os-js.org/>
+	* <https://nagyervin.eu/njdesktop>
 
 
 ## 后端开发
@@ -33,6 +36,8 @@
 6. github的api文档，对restful API使用有一些很细节的规定和描述，可作为API设计和使用的参考，但到了V4版后github开始用graphql了~：<https://developer.github.com/v3/>
 7. python3 cookbook，从python2转到python3，总会感觉自己没把python3的新特性用到位，可以参考下这本书，掌握python3最新特性带来的快感：<http://python3-cookbook.readthedocs.io/zh_CN/latest/index.html>
 8. 一篇讲network.taget的文章，可以试着读完这篇文章，然后确定自己的service配置文件该怎么写才好：<https://www.freedesktop.org/wiki/Software/systemd/NetworkTarget/>
+9. 一个SQL注入的演示网站，用于教育类项目的搭建，同时也提示大家：代码写成这样就注定会被黑啊：<http://sqlidemo.altervista.org/>
+10. 一篇博文《不要用 JWT 来做 Web 应用的会话管理》，对jwt的使用场景做了一些讨论，说得比较在理，如果你执着要在项目中用jwt替代其他的认证token方式，可以先看下这篇文章：<http://t.cn/R1gbld7>
 
 
 ## 运维
