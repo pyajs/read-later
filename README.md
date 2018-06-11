@@ -24,6 +24,7 @@
 11. 两个用于生成web版虚拟桌面的项目，可用于演示和教学类项目：
 	* <https://www.os-js.org/>
 	* <https://nagyervin.eu/njdesktop>
+12. Ant Design的设计模式和规范，讲了很多实用的界面设计细节，其实应该是值得PM在做设计的时候先看看的，但是我们没有PM相关的部分，就先放到这里了：<https://ant.design/docs/spec/introduce-cn>
 
 
 ## 后端开发
