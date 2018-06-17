@@ -39,6 +39,7 @@
 8. 一篇讲network.taget的文章，可以试着读完这篇文章，然后确定自己的service配置文件该怎么写才好：<https://www.freedesktop.org/wiki/Software/systemd/NetworkTarget/>
 9. 一个SQL注入的演示网站，用于教育类项目的搭建，同时也提示大家：代码写成这样就注定会被黑啊：<http://sqlidemo.altervista.org/>
 10. 一篇博文《不要用 JWT 来做 Web 应用的会话管理》，对jwt的使用场景做了一些讨论，说得比较在理，如果你执着要在项目中用jwt替代其他的认证token方式，可以先看下这篇文章：<http://t.cn/R1gbld7>
+11. 系统设计入门，github上的热门项目，十全大补项目，可用于快速了解一些系统的设计方法和现在流行的系统元素，有中文版：<https://github.com/donnemartin/system-design-primer>
 
 
 ## 运维
