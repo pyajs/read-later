@@ -25,6 +25,7 @@
 	* <https://www.os-js.org/>
 	* <https://nagyervin.eu/njdesktop>
 12. Ant Design的设计模式和规范，讲了很多实用的界面设计细节，其实应该是值得PM在做设计的时候先看看的，但是我们没有PM相关的部分，就先放到这里了：<https://ant.design/docs/spec/introduce-cn>
+13. Material Dashboard，近期github上比较火的前端项目，一个Material Design风格的admin界面，有vue、react版本，比之前看到的很多bootstrap改版都要漂亮很多:<https://github.com/creativetimofficial/material-dashboard> (免费版演示功能较少，升级到pro版需要59刀)
 
 
 ## 后端开发
