@@ -41,6 +41,7 @@
 9. 一个SQL注入的演示网站，用于教育类项目的搭建，同时也提示大家：代码写成这样就注定会被黑啊：<http://sqlidemo.altervista.org/>
 10. 一篇博文《不要用 JWT 来做 Web 应用的会话管理》，对jwt的使用场景做了一些讨论，说得比较在理，如果你执着要在项目中用jwt替代其他的认证token方式，可以先看下这篇文章：<http://t.cn/R1gbld7>
 11. 系统设计入门，github上的热门项目，十全大补项目，可用于快速了解一些系统的设计方法和现在流行的系统元素，有中文版：<https://github.com/donnemartin/system-design-primer>
+12. termtosvg，一款可以录制终端命令行操作的工具，录制完成后生成一个svg动画，可直接嵌入到网页中，有动画演示命令的执行过程，比只截个图要好得多，推荐写教程时使用：<https://github.com/nbedos/termtosvg>
 
 
 ## 运维
