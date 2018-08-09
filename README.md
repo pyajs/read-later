@@ -44,10 +44,10 @@
 11. 系统设计入门，github上的热门项目，十全大补项目，可用于快速了解一些系统的设计方法和现在流行的系统元素，有中文版：<https://github.com/donnemartin/system-design-primer>
 12. termtosvg，一款可以录制终端命令行操作的工具，录制完成后生成一个svg动画，可直接嵌入到网页中，有动画演示命令的执行过程，比只截个图要好得多，推荐写教程时使用：<https://github.com/nbedos/termtosvg>
 13. Django Admin Cookbook，提供了一些定制django admin界面的实用方法：<https://books.agiliq.com/projects/django-admin-cookbook/en/latest/index.html>
+14. 使用uwsgi实现异步任务，介绍了在django项目中如何简单地利用uwsgi实现异步队列：<https://knktc.com/2018/07/24/uwsgi-spooler-as-async-queue/>
 
 
 ## 运维
 1. monitorix工具，用于监控系统性能，并通过rrdtool绘制成图形，最终通过web界面进行展示，可直接通过yum安装： <http://www.monitorix.org/>
 2. 常看开源项目的人都熟悉awesome列表，这里的这个列表提供了一份系统管理员常用的管理工具的列表，可能会有帮助：<https://github.com/n1trux/awesome-sysadmin>
-
 
