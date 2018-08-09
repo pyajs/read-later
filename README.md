@@ -26,6 +26,7 @@
 	* <https://nagyervin.eu/njdesktop>
 12. Ant Design的设计模式和规范，讲了很多实用的界面设计细节，其实应该是值得PM在做设计的时候先看看的，但是我们没有PM相关的部分，就先放到这里了：<https://ant.design/docs/spec/introduce-cn>
 13. Material Dashboard，近期github上比较火的前端项目，一个Material Design风格的admin界面，有vue、react版本，比之前看到的很多bootstrap改版都要漂亮很多:<https://github.com/creativetimofficial/material-dashboard> (免费版演示功能较少，升级到pro版需要59刀)
+14. httpbin，用来完成http请求测试的工具，如果没有后端的配合，可以使用该项目进行一些测试：<https://httpbin.org>
 
 
 ## 后端开发
@@ -48,6 +49,5 @@
 ## 运维
 1. monitorix工具，用于监控系统性能，并通过rrdtool绘制成图形，最终通过web界面进行展示，可直接通过yum安装： <http://www.monitorix.org/>
 2. 常看开源项目的人都熟悉awesome列表，这里的这个列表提供了一份系统管理员常用的管理工具的列表，可能会有帮助：<https://github.com/n1trux/awesome-sysadmin>
-
 
 
