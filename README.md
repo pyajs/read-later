@@ -50,6 +50,7 @@
 ## 运维
 1. monitorix工具，用于监控系统性能，并通过rrdtool绘制成图形，最终通过web界面进行展示，可直接通过yum安装： <http://www.monitorix.org/>
 2. 常看开源项目的人都熟悉awesome列表，这里的这个列表提供了一份系统管理员常用的管理工具的列表，可能会有帮助：<https://github.com/n1trux/awesome-sysadmin>
+3. 系统管理员面试问题集，提供了从初级到高级的各种linux系统管理问题，平时看一下拓展下linux的能力也是不错的：<https://github.com/trimstray/test-your-sysadmin-skills>
 
 
 ## 安全
