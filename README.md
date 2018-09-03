@@ -46,6 +46,9 @@
 13. Django Admin Cookbook，提供了一些定制django admin界面的实用方法：<https://books.agiliq.com/projects/django-admin-cookbook/en/latest/index.html>
 14. 使用uwsgi实现异步任务，介绍了在django项目中如何简单地利用uwsgi实现异步队列：<https://knktc.com/2018/07/24/uwsgi-spooler-as-async-queue/>
 15. 在开发多用户多权限的系统时免不了要进行账号的切换，使用SessionBox这个chrome的插件可以很容易地解决多用户的session问题，让不同的标签可以使用不同的session，直接命名和分组，非常好用：<https://sessionbox.io/>
+16. 在github上发布项目，记得要参考这两篇：
+	* 如何维护ChangeLog: <https://keepachangelog.com/zh-CN/1.0.0/> 
+	* 语义化版本控制规范: <https://semver.org/lang/zh-CN/> 
 
 ## 运维
 1. monitorix工具，用于监控系统性能，并通过rrdtool绘制成图形，最终通过web界面进行展示，可直接通过yum安装： <http://www.monitorix.org/>
