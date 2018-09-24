@@ -49,6 +49,8 @@
 16. 在github上发布项目，记得要参考这两篇：
 	* 如何维护ChangeLog: <https://keepachangelog.com/zh-CN/1.0.0/> 
 	* 语义化版本控制规范: <https://semver.org/lang/zh-CN/> 
+17. octotree，一个github上看代码的神器插件，可以在github和gitlab页面中显示代码树，方便直接在页面中查看代码：<https://github.com/ovity/octotree>
+
 
 ## 运维
 1. monitorix工具，用于监控系统性能，并通过rrdtool绘制成图形，最终通过web界面进行展示，可直接通过yum安装： <http://www.monitorix.org/>
