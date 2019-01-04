@@ -3,11 +3,15 @@
 
 ## 前端开发
 
-1. 几个多步骤guide的示例和下载，如果项目中有提供“下一步”“下一步”这样的form的需求，可以参考下：	* <http://azmind.com/2015/05/31/multi-step-registration-form-bootstrap-css3-jquery/>	* <http://azmind.com/2016/05/30/bootstrap-wizard/>
+1. 几个多步骤guide的示例和下载，如果项目中有提供“下一步”“下一步”这样的form的需求，可以参考下：
+	* <http://azmind.com/2015/05/31/multi-step-registration-form-bootstrap-css3-jquery/>
+	* <http://azmind.com/2016/05/30/bootstrap-wizard/>
 	* <http://www.panopta.com/2013/02/06/bootstrap-application-wizard-2/>
 2. Bootstrap Tour 为页面添加操作步骤提示功能，如果需要为用户提供交互式的站点使用指导，可参考这个工具：<http://bootstraptour.com/>
 3. 与上一条的效果类似，这里提供了10种交互式指导的工具：<https://ourcodeworld.com/articles/read/328/top-10-best-tour-website-guide-javascript-and-jquery-plugins>
-4. 两个Bootstrap代码段的收集演示站点，如果使用bootstrap开发时有问题，可以到这里搜索参考下别人写的代码：	* <http://bootsnipp.com/> 	* <http://www.bootply.com/>
+4. 两个Bootstrap代码段的收集演示站点，如果使用bootstrap开发时有问题，可以到这里搜索参考下别人写的代码：
+	* <http://bootsnipp.com/> 
+	* <http://www.bootply.com/>
 5. jQuery QueryBuilder, 用于图形化地生成查询语句和规则，可以帮助用户把条件和AND/OR这类逻辑关系拼接起来:<http://querybuilder.js.org/demo.html>
 6. 可动态变化的favicon，在favicon上做文章，完成提示的效果:<http://lab.ejci.net/favico.js/>
 7. 几个提供免费壁纸和免费视频的网站，提供的图片和视频都很赏心悦目，这些网站同时也提供了API，在设计每天自动变化的登录页背景时可以使用：
@@ -31,7 +35,9 @@
 
 ## 后端开发
 
-1. Life is short, you need Python。提供下awesome python的网站吧，希望大家都能找到合适的库，快速完成自己的工作：	* 英文版：<http://awesome-python.com/> 	* 中文版：<https://github.com/jobbole/awesome-python-cn>
+1. Life is short, you need Python。提供下awesome python的网站吧，希望大家都能找到合适的库，快速完成自己的工作：
+  * 英文版：<http://awesome-python.com/> 
+  * 中文版：<https://github.com/jobbole/awesome-python-cn>
 2. 几个python kafka客户端性能评测对比的文档，可以参考下选型和性能测试应该怎么来做：<http://activisiongamescience.github.io/2016/06/15/Kafka-Client-Benchmarking/>
 3. valentina studio，一个多数据库管理工具，免费版也已经很好用了，对pgadmin不满的话可以尝试下:<https://www.valentina-db.com/en/valentina-studio-overview>
 4. 我们常用的一些词可能会发音错误，因此有人整理了这么一份列表：<https://github.com/shimohq/chinese-programmer-wrong-pronunciation>
@@ -47,9 +53,12 @@
 14. 使用uwsgi实现异步任务，介绍了在django项目中如何简单地利用uwsgi实现异步队列：<https://knktc.com/2018/07/24/uwsgi-spooler-as-async-queue/>
 15. 在开发多用户多权限的系统时免不了要进行账号的切换，使用SessionBox这个chrome的插件可以很容易地解决多用户的session问题，让不同的标签可以使用不同的session，直接命名和分组，非常好用：<https://sessionbox.io/>
 16. 在github上发布项目，记得要参考这两篇：
-	* 如何维护ChangeLog: <https://keepachangelog.com/zh-CN/1.0.0/> 
-	* 语义化版本控制规范: <https://semver.org/lang/zh-CN/> 
+   * 如何维护ChangeLog: <https://keepachangelog.com/zh-CN/1.0.0/> 
+   * 语义化版本控制规范: <https://semver.org/lang/zh-CN/> 
 17. octotree，一个github上看代码的神器插件，可以在github和gitlab页面中显示代码树，方便直接在页面中查看代码：<https://github.com/ovity/octotree>
+18. 一些在线正则表达式匹配检测的网站，有助于平时编写正则时使用：
+   * pyregex，界面上提供了一些cheatsheet，很贴心: <http://www.pyregex.com/>
+
 
 
 ## 运维
