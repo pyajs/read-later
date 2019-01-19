@@ -57,7 +57,8 @@
    * 语义化版本控制规范: <https://semver.org/lang/zh-CN/> 
 17. octotree，一个github上看代码的神器插件，可以在github和gitlab页面中显示代码树，方便直接在页面中查看代码：<https://github.com/ovity/octotree>
 18. 一些在线正则表达式匹配检测的网站，有助于平时编写正则时使用：
-   * pyregex，界面上提供了一些cheatsheet，很贴心: <http://www.pyregex.com/>
+   * pyregex，界面风格不错，提供了一些cheatsheet: <http://www.pyregex.com/>
+   * pythex，界面较为简洁: <https://pythex.org/>
 
 
 
