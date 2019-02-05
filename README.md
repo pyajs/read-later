@@ -59,6 +59,7 @@
 18. 一些在线正则表达式匹配检测的网站，有助于平时编写正则时使用：
    * pyregex，界面风格不错，提供了一些cheatsheet: <http://www.pyregex.com/>
    * pythex，界面较为简洁: <https://pythex.org/>
+19. tldr, 一款非常实用的命令行工具，如果觉得看man page有点吃力，可以使用这款工具，仅列出常用的命令：<https://github.com/tldr-pages/tldr>
 
 
 
