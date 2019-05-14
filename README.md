@@ -57,7 +57,7 @@
    * 语义化版本控制规范: <https://semver.org/lang/zh-CN/> 
 17. octotree，一个github上看代码的神器插件，可以在github和gitlab页面中显示代码树，方便直接在页面中查看代码：<https://github.com/ovity/octotree>
 18. 一些在线正则表达式匹配检测的网站，有助于平时编写正则时使用：
-   * pyregex，界面风格不错，提供了一些cheatsheet: <http://www.pyregex.com/>
+   * regex101，相当不错的web工具，提供了多种工具的正则测试：<https://regex101.com/>
    * pythex，界面较为简洁: <https://pythex.org/>
 19. tldr, 一款非常实用的命令行工具，如果觉得看man page有点吃力，可以使用这款工具，仅列出常用的命令：<https://github.com/tldr-pages/tldr>
 20. Understanding JSON Schema，贴下这个站点，因为最近一直在用json schema来完成参数校验，经常需要参考下schema的编写方法：<https://json-schema.org/understanding-json-schema/index.html>
