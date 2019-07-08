@@ -61,6 +61,8 @@
    * pythex，界面较为简洁: <https://pythex.org/>
 19. tldr, 一款非常实用的命令行工具，如果觉得看man page有点吃力，可以使用这款工具，仅列出常用的命令：<https://github.com/tldr-pages/tldr>
 20. Understanding JSON Schema，贴下这个站点，因为最近一直在用json schema来完成参数校验，经常需要参考下schema的编写方法：<https://json-schema.org/understanding-json-schema/index.html>
+21. python3 asyncio的一些教程文章：
+   * [协程和asyncio](https://www.ibm.com/developerworks/cn/analytics/library/ba-on-demand-data-python-3/index.html) 一篇IBM Developer上的好文，用例子浅显地讲解了asyncio的用法(系列中的三篇也都值得一看)
 
 
 
