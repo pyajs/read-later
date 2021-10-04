@@ -72,5 +72,9 @@
 3. 系统管理员面试问题集，提供了从初级到高级的各种linux系统管理问题，平时看一下拓展下linux的能力也是不错的：<https://github.com/trimstray/test-your-sysadmin-skills>
 
 
+## 其他
+1. Excalidraw，一款手绘风格的白板和示意图绘制工具，功能简洁，即开即用，非常适合简单地绘制一些数据流图: <https://excalidraw.com/>
+
+
 ## 安全
 1. 移动安全wiki，集合了大量的移动安全工具介绍和链接：<https://mobilesecuritywiki.com/>
