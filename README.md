@@ -63,6 +63,8 @@
 20. Understanding JSON Schema，贴下这个站点，因为最近一直在用json schema来完成参数校验，经常需要参考下schema的编写方法：<https://json-schema.org/understanding-json-schema/index.html>
 21. python3 asyncio的一些教程文章：
    * [协程和asyncio](https://www.ibm.com/developerworks/cn/analytics/library/ba-on-demand-data-python-3/index.html) 一篇IBM Developer上的好文，用例子浅显地讲解了asyncio的用法(系列中的三篇也都值得一看)
+22. 如果有在老版本操作系统上发布基于新的 python 版本的代码，可以试着使用这个项目 [Python Standalone Builds
+](https://github.com/indygreg/python-build-standalone)，这个项目提供了独立打包的 Python 环境，再也不用考虑老版本的系统不好安装新版本的 Python 的问题。
 
 
 
